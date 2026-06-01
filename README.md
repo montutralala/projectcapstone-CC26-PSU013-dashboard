@@ -51,15 +51,13 @@ Dataset berisi **14.100 baris data** dari **47 jenis sampah** unik, dilengkapi i
 
 | Library | Versi | Kegunaan |
 |---|---|---|
-| `streamlit` | 1.35.0 | Framework dashboard interaktif |
-| `pandas` | 2.0.0 | Manipulasi dan analisis data |
-| `numpy` | 1.24.0 | Komputasi numerik |
-| `plotly` | 5.15.0 | Visualisasi interaktif |
-| `matplotlib` | 3.7.0 | Visualisasi statis |
-| `seaborn` | 0.12.0 | Visualisasi statistik |
-| `scipy` | 1.11.0 | Uji statistik (Spearman, Mann-Whitney) |
-| `scikit-learn` | 1.3.0 | Feature engineering & preprocessing |
-| `openpyxl` | 3.1.0 | Baca/tulis file Excel |
+| `streamlit` | >= 1.32.0 | Framework dashboard interaktif |
+| `pandas` | >= 2.0.0 | Manipulasi dan analisis data |
+| `numpy` | >= 1.24.0| Komputasi numerik |
+| `plotly` | >= 5.18.0 | Visualisasi interaktif |
+| `scipy` | >= 1.11.0 | Uji statistik (Spearman, Mann-Whitney) |
+| `scikit-learn` | >= 1.3.0 | Feature engineering & preprocessing |
+| `openpyxl` | >= 3.1.0 | Baca/tulis file Excel |
 
 ---
 
